@@ -4,4 +4,9 @@
  test test test
  this is my testing....
  
+<<<<<<< HEAD
 Test again.... Hiiiiii
+=======
+Test again....
+Helloooo.....
+>>>>>>> 78e0e0c9685d034b43115d439d25910a2a16421d
